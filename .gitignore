@@ -13,3 +13,5 @@ lr-model
 .idea
 venv/**
 venv.tar.gz
+Assignment1/tl_2022_49_tabblock20/*
+.DS_Store
